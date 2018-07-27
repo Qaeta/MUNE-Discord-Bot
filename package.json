@@ -1,0 +1,15 @@
+{
+  "name": "mune-bot",
+  "version": "0.1.0",
+  "description": "Implementation of the MUNE System by /u/bionicle_fanatic hosted here: http://homebrewery.naturalcrit.com/share/rkmo0t9k4Q",
+  "main": "bot.js",
+  "author": "Erik Heinze-Milne",
+  "dependencies": {
+    "discord.io": "^2.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "!ping"
+  },
+  "license": "ISC"
+}
